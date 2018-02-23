@@ -1,3 +1,9 @@
+# Sketch.js, CSS and Canvas Animations
+
+Minimal JavaScript Creative Coding Framework   
+With Maximal Fun by Datatuki, Jorma Hytönen   
+
+
 ## sketch.js
 
 A tiny (~2kb gzipped) platform for JavaScript creative coding.
@@ -9,7 +15,8 @@ A tiny (~2kb gzipped) platform for JavaScript creative coding.
 <a target="_blank" href="http://soulwire.github.com/Muscular-Hydrostats/"><img width="24.5%" src="http://soulwire.github.io/sketch.js/examples/img/tentacles.jpg"></a>
 </p>
 
-A few examples from the [showcase](http://soulwire.github.com/sketch.js/)
+A few examples from the [showcase](http://soulwire.github.com/sketch.js/)   
+More my own examples from the [datatuki-sketch](https://datatuki.comsketch/)   
 
 ### Start Coding Faster
 
