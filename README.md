@@ -16,7 +16,7 @@ A tiny (~2kb gzipped) platform for JavaScript creative coding.
 </p>
 
 A few examples from the [showcase](http://soulwire.github.com/sketch.js/)   
-More my own examples from the [datatuki-sketch](https://datatuki.comsketch/)   
+More my own examples from the [datatuki-sketch](https://datatuki.com/sketch/)   
 
 ### Start Coding Faster
 
