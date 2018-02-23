@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="viewport" content="width=device-width">
+
+  <title>Canvas Parallax Skyline</title>
+
+    <link rel="stylesheet" href="lib/reset.min.css">
+
+    <style>
+      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined 
+      if they are on local disk! */
+      canvas {
+        background: 
+            linear-gradient(
+            hsl(200, 50%, 80%) 0%, 
+            hsl(200, 30%, 95%) 75%);
+        display: block;
+      }
+
+      div {
+        height: 100%;
+        left: 0;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background: url(img/skyline-texture.png);
+      }
+    </style>
+
+    <script src="lib/prefixfree.min.js"></script>
+
+</head>
+
+<body>
+
+    <span>
+    Canvas Parallax Skyline &nbsp;
+    ======================= &nbsp;
+    Move your mouse to change speed and move up and down.
+    </span>
+
+    <div> </div>
+
+    <script src='lib/jquery-1.12.4.min.js'></script>
+    <script src='lib/sketch.min.js'></script>
+    <!-- 
+    Use precompiled version: 
+    ReferenceError: Sketch is not defined at coffeescript compile 
+    -->
+    <script src="js/skyline-index.js"></script>
+
+</body>
+
+</html>
