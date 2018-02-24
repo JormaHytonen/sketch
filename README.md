@@ -1,7 +1,7 @@
 # Sketch.js, CSS and Canvas Animations
 
 Minimal JavaScript Creative Coding Framework   
-With Maximal Fun by Datatuki, Jorma Hytönen   
+and Maximal Fun by Datatuki, Jorma Hytönen   
 
 
 ## sketch.js
